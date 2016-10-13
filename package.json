@@ -1,0 +1,24 @@
+{
+  "name": "keepcalm",
+  "version": "1.0.0",
+  "description": "a customized keep calm... desktop poster generator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOH1211/MKS-solo.git"
+  },
+  "author": "dohun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DOH1211/MKS-solo/issues"
+  },
+  "homepage": "https://github.com/DOH1211/MKS-solo#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}

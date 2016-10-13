@@ -1,0 +1,3 @@
+# Keep Calm and ...
+
+> An interactive motivation poster that allows users to customize the “Keep Calm and Carry On” phrase with a suitable background image from Getty Images photo gallery.
